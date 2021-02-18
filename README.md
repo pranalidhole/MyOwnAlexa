@@ -1,6 +1,6 @@
 # MyOwnAlexa
-##Fun with python libraries <br />
-**Libraries used - ** <br />
+## Fun with python libraries <br />
+** Libraries used - ** <br />
 >pip install speech_recognition<br />
 >pip install pyttsx3<br />
 >pip install pywhatkit<br />
